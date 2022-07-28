@@ -42,4 +42,4 @@ best <- function(state, outcome){
   
 }
 
-best(AL, "pneumonia")
+best("AL", "pneumonia")
